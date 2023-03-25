@@ -1,6 +1,8 @@
 # boothsmultiply
-
 Implementation of [Booth's multiplication algorithm](https://en.wikipedia.org/wiki/Booth%27s_multiplication_algorithm) in C.
+
+To compile and run:
+`gcc booths.c -lm && ./a.out`
 
 Output with default `input.txt` in repository:
 
